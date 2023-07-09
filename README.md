@@ -33,9 +33,9 @@ Bu projede kullanmak için öncelikle bir API seçmelisiniz. [Bu adresten](https
 
 * [ ] Kullanmak için bir API seçin. Burada fazla vakit kaybetmeyin, hoşunuza giden biri ile başlayın.
 
-* [ ] `redux` ve `react-redux` paketleri sizin için eklendi. Siz de `redux-thunk` paketini kurun ve store oluşturma aşamasında ilgili yerde kullanın.
+* [+] `redux` ve `react-redux` paketleri sizin için eklendi. Siz de `redux-thunk` paketini kurun ve store oluşturma aşamasında ilgili yerde kullanın.
 
-* [ ] Projeye `axios` paketini ekleyin.
+* [+] Projeye `axios` paketini ekleyin.
 
 * [ ] `actions.js` içerisindeki `fetchAnother` isimli action creator async olmalı ve seçtiğiniz API'dan veri almalı. Derste öğrendiklerinizi kullanarak bu actionu oluşturun ve içerisindeki farklı durumlarda farklı actionlar dispatch edin.
 
